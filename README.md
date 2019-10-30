@@ -1,8 +1,5 @@
 ## React Gallery App
 
-As a fullstack JavaScript developer you will have to deal with both the frontend and be able to communicate and write applications to and for the backend.
-For this project I've created a Gallery app that uses the React library to display the pictures retrieved from the Flickr API. Below I listed the features of this application.
-
 # Features
 
 - A user can query the Flickr API for photos
