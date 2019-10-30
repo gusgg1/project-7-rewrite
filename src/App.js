@@ -6,7 +6,6 @@ import Nav from './components/Nav';
 import RouteNotFound from './components/RouteNotFound';
 import apiKey from './config';
 import Gallery from './components/Gallery';
-// https://hackernoon.com/the-constructor-is-dead-long-live-the-constructor-c10871bea599
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(false);
